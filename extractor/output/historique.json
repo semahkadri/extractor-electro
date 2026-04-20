@@ -1,0 +1,423 @@
+{
+  "version": "1.0",
+  "last_updated": "2026-04-17T18:08:45.712253",
+  "count": 8,
+  "extractions": [
+    {
+      "timestamp": "2026-04-17T17:46:52.034097",
+      "source_filename": "1.jfif",
+      "puissance_ict": [
+        {
+          "zone_tension": "B-C",
+          "tension_primaire_v": 380.0,
+          "zone_courant_primaire": "A",
+          "courant_primaire_a": 13.0,
+          "zone_courant_secondaire": "A",
+          "courant_secondaire_a": 8.3
+        },
+        {
+          "zone_tension": "C-A",
+          "tension_primaire_v": 380.0,
+          "zone_courant_primaire": "B",
+          "courant_primaire_a": 13.0,
+          "zone_courant_secondaire": "B",
+          "courant_secondaire_a": 8.4
+        },
+        {
+          "zone_tension": "A-B",
+          "tension_primaire_v": 381.0,
+          "zone_courant_primaire": "C",
+          "courant_primaire_a": 12.0,
+          "zone_courant_secondaire": "C",
+          "courant_secondaire_a": 8.4
+        }
+      ],
+      "accelerateurs_zones": [
+        {
+          "zone": "A",
+          "r_icol_kv": 736.0,
+          "courant_colonne_ua": 123.0,
+          "vide_torr": "5.6e-007",
+          "courant_aperture_ua": 0.0
+        },
+        {
+          "zone": "B",
+          "r_icol_kv": 736.0,
+          "courant_colonne_ua": 123.0,
+          "vide_torr": "2.4e-007",
+          "courant_aperture_ua": 0.0
+        }
+      ],
+      "accelerateurs_global": {
+        "tension_kv": 725.0,
+        "charge_ma": 2.19,
+        "faisceau_ma_a": 1.0,
+        "faisceau_ma_b": 1.0
+      }
+    },
+    {
+      "timestamp": "2026-04-17T17:47:21.656733",
+      "source_filename": "2.jfif",
+      "puissance_ict": [
+        {
+          "zone_tension": "B-C",
+          "tension_primaire_v": 377.0,
+          "zone_courant_primaire": "A",
+          "courant_primaire_a": 13.0,
+          "zone_courant_secondaire": "A",
+          "courant_secondaire_a": 8.2
+        },
+        {
+          "zone_tension": "C-A",
+          "tension_primaire_v": 379.0,
+          "zone_courant_primaire": "B",
+          "courant_primaire_a": 12.0,
+          "zone_courant_secondaire": "B",
+          "courant_secondaire_a": 8.4
+        },
+        {
+          "zone_tension": "A-B",
+          "tension_primaire_v": 380.0,
+          "zone_courant_primaire": "C",
+          "courant_primaire_a": 12.0,
+          "zone_courant_secondaire": "C",
+          "courant_secondaire_a": 8.3
+        }
+      ],
+      "accelerateurs_zones": [
+        {
+          "zone": "A",
+          "r_icol_kv": 736.0,
+          "courant_colonne_ua": 123.0,
+          "vide_torr": "4.9e-007",
+          "courant_aperture_ua": 0.0
+        },
+        {
+          "zone": "B",
+          "r_icol_kv": 735.0,
+          "courant_colonne_ua": 122.8,
+          "vide_torr": "1.1e-007",
+          "courant_aperture_ua": 0.0
+        }
+      ],
+      "accelerateurs_global": {
+        "tension_kv": 724.0,
+        "charge_ma": 2.15,
+        "faisceau_ma_a": 1.0,
+        "faisceau_ma_b": 1.1
+      }
+    },
+    {
+      "timestamp": "2026-04-17T17:48:00.906272",
+      "source_filename": "3.jfif",
+      "puissance_ict": [
+        {
+          "zone_tension": "B-C",
+          "tension_primaire_v": 495.0,
+          "zone_courant_primaire": "A",
+          "courant_primaire_a": 26.0,
+          "zone_courant_secondaire": "A",
+          "courant_secondaire_a": 12.6
+        },
+        {
+          "zone_tension": "C-A",
+          "tension_primaire_v": 495.0,
+          "zone_courant_primaire": "B",
+          "courant_primaire_a": 26.0,
+          "zone_courant_secondaire": "B",
+          "courant_secondaire_a": 12.5
+        },
+        {
+          "zone_tension": "A-B",
+          "tension_primaire_v": 493.0,
+          "zone_courant_primaire": "C",
+          "courant_primaire_a": 24.0,
+          "zone_courant_secondaire": "C",
+          "courant_secondaire_a": 12.6
+        }
+      ],
+      "accelerateurs_zones": [
+        {
+          "zone": "A",
+          "r_icol_kv": 820.0,
+          "courant_colonne_ua": 136.7,
+          "vide_torr": "7.1e-007",
+          "courant_aperture_ua": 0.0
+        },
+        {
+          "zone": "B",
+          "r_icol_kv": 819.0,
+          "courant_colonne_ua": 136.7,
+          "vide_torr": "3.1e-007",
+          "courant_aperture_ua": 0.0
+        }
+      ],
+      "accelerateurs_global": {
+        "tension_kv": 797.0,
+        "charge_ma": 25.0,
+        "faisceau_ma_a": 12.5,
+        "faisceau_ma_b": 12.8
+      }
+    },
+    {
+      "timestamp": "2026-04-17T17:49:07.371934",
+      "source_filename": "electrique.jfif",
+      "puissance_ict": [
+        {
+          "zone_tension": "B-C",
+          "tension_primaire_v": 379.0,
+          "zone_courant_primaire": "A",
+          "courant_primaire_a": 13.0,
+          "zone_courant_secondaire": "A",
+          "courant_secondaire_a": 8.2
+        },
+        {
+          "zone_tension": "C-A",
+          "tension_primaire_v": 379.0,
+          "zone_courant_primaire": "B",
+          "courant_primaire_a": 12.0,
+          "zone_courant_secondaire": "B",
+          "courant_secondaire_a": 8.4
+        },
+        {
+          "zone_tension": "A-B",
+          "tension_primaire_v": 380.0,
+          "zone_courant_primaire": "C",
+          "courant_primaire_a": 12.0,
+          "zone_courant_secondaire": "C",
+          "courant_secondaire_a": 8.4
+        }
+      ],
+      "accelerateurs_zones": [
+        {
+          "zone": "A",
+          "r_icol_kv": 736.0,
+          "courant_colonne_ua": 123.0,
+          "vide_torr": "4.8e-007",
+          "courant_aperture_ua": 0.0
+        },
+        {
+          "zone": "B",
+          "r_icol_kv": 735.0,
+          "courant_colonne_ua": 122.8,
+          "vide_torr": "1.1e-007",
+          "courant_aperture_ua": 0.0
+        }
+      ],
+      "accelerateurs_global": {
+        "tension_kv": 724.0,
+        "charge_ma": 2.15,
+        "faisceau_ma_a": 1.0,
+        "faisceau_ma_b": 1.0
+      }
+    },
+    {
+      "timestamp": "2026-04-17T17:50:37.655556",
+      "source_filename": "777.jfif",
+      "puissance_ict": [
+        {
+          "zone_tension": "B-C",
+          "tension_primaire_v": 442.0,
+          "zone_courant_primaire": "A",
+          "courant_primaire_a": 16.0,
+          "zone_courant_secondaire": "A",
+          "courant_secondaire_a": 9.6
+        },
+        {
+          "zone_tension": "C-A",
+          "tension_primaire_v": 443.0,
+          "zone_courant_primaire": "B",
+          "courant_primaire_a": 14.0,
+          "zone_courant_secondaire": "B",
+          "courant_secondaire_a": 9.8
+        },
+        {
+          "zone_tension": "A-B",
+          "tension_primaire_v": 442.0,
+          "zone_courant_primaire": "C",
+          "courant_primaire_a": 15.0,
+          "zone_courant_secondaire": "C",
+          "courant_secondaire_a": 9.7
+        }
+      ],
+      "accelerateurs_zones": [
+        {
+          "zone": "A",
+          "r_icol_kv": 865.0,
+          "courant_colonne_ua": 144.3,
+          "vide_torr": "5.3e-007",
+          "courant_aperture_ua": 0.0
+        },
+        {
+          "zone": "B",
+          "r_icol_kv": 861.0,
+          "courant_colonne_ua": 143.9,
+          "vide_torr": "1.6e-006",
+          "courant_aperture_ua": 0.0
+        }
+      ],
+      "accelerateurs_global": {
+        "tension_kv": 850.0,
+        "charge_ma": 2.1,
+        "faisceau_ma_a": 1.0,
+        "faisceau_ma_b": 1.0
+      }
+    },
+    {
+      "timestamp": "2026-04-17T17:58:21.527490",
+      "source_filename": "1.jfif",
+      "puissance_ict": [
+        {
+          "zone_tension": "B-C",
+          "tension_primaire_v": 380.0,
+          "zone_courant_primaire": "A",
+          "courant_primaire_a": 13.0,
+          "zone_courant_secondaire": "A",
+          "courant_secondaire_a": 8.3
+        },
+        {
+          "zone_tension": "C-A",
+          "tension_primaire_v": 380.0,
+          "zone_courant_primaire": "B",
+          "courant_primaire_a": 13.0,
+          "zone_courant_secondaire": "B",
+          "courant_secondaire_a": 8.4
+        },
+        {
+          "zone_tension": "A-B",
+          "tension_primaire_v": 381.0,
+          "zone_courant_primaire": "C",
+          "courant_primaire_a": 12.0,
+          "zone_courant_secondaire": "C",
+          "courant_secondaire_a": 8.4
+        }
+      ],
+      "accelerateurs_zones": [
+        {
+          "zone": "A",
+          "r_icol_kv": 736.0,
+          "courant_colonne_ua": 123.0,
+          "vide_torr": "5.6e-007",
+          "courant_aperture_ua": 0.0
+        },
+        {
+          "zone": "B",
+          "r_icol_kv": 736.0,
+          "courant_colonne_ua": 123.0,
+          "vide_torr": "2.4e-007",
+          "courant_aperture_ua": 0.0
+        }
+      ],
+      "accelerateurs_global": {
+        "tension_kv": 725.0,
+        "charge_ma": 2.19,
+        "faisceau_ma_a": 1.0,
+        "faisceau_ma_b": 1.0
+      }
+    },
+    {
+      "timestamp": "2026-04-17T18:02:14.398218",
+      "source_filename": "666.jfif",
+      "puissance_ict": [
+        {
+          "zone_tension": "B-C",
+          "tension_primaire_v": 477.0,
+          "zone_courant_primaire": "A",
+          "courant_primaire_a": 17.0,
+          "zone_courant_secondaire": "A",
+          "courant_secondaire_a": 10.9
+        },
+        {
+          "zone_tension": "C-A",
+          "tension_primaire_v": 477.0,
+          "zone_courant_primaire": "B",
+          "courant_primaire_a": 17.0,
+          "zone_courant_secondaire": "B",
+          "courant_secondaire_a": 11.0
+        },
+        {
+          "zone_tension": "A-B",
+          "tension_primaire_v": 477.0,
+          "zone_courant_primaire": "C",
+          "courant_primaire_a": 16.0,
+          "zone_courant_secondaire": "C",
+          "courant_secondaire_a": 10.9
+        }
+      ],
+      "accelerateurs_zones": [
+        {
+          "zone": "A",
+          "r_icol_kv": 877.0,
+          "courant_colonne_ua": 146.6,
+          "vide_torr": "4.8e-007",
+          "courant_aperture_ua": 0.0
+        },
+        {
+          "zone": "B",
+          "r_icol_kv": 879.0,
+          "courant_colonne_ua": 146.8,
+          "vide_torr": "2.2e-006",
+          "courant_aperture_ua": 0.0
+        }
+      ],
+      "accelerateurs_global": {
+        "tension_kv": 851.0,
+        "charge_ma": 9.52,
+        "faisceau_ma_a": 4.6,
+        "faisceau_ma_b": 4.8
+      }
+    },
+    {
+      "timestamp": "2026-04-17T18:08:30.255138",
+      "source_filename": "222.jfif",
+      "puissance_ict": [
+        {
+          "zone_tension": "B-C",
+          "tension_primaire_v": 460.0,
+          "zone_courant_primaire": "A",
+          "courant_primaire_a": 17.0,
+          "zone_courant_secondaire": "A",
+          "courant_secondaire_a": 10.2
+        },
+        {
+          "zone_tension": "C-A",
+          "tension_primaire_v": 462.0,
+          "zone_courant_primaire": "B",
+          "courant_primaire_a": 16.0,
+          "zone_courant_secondaire": "B",
+          "courant_secondaire_a": 10.3
+        },
+        {
+          "zone_tension": "A-B",
+          "tension_primaire_v": 460.0,
+          "zone_courant_primaire": "C",
+          "courant_primaire_a": 16.0,
+          "zone_courant_secondaire": "C",
+          "courant_secondaire_a": 10.3
+        }
+      ],
+      "accelerateurs_zones": [
+        {
+          "zone": "A",
+          "r_icol_kv": 870.0,
+          "courant_colonne_ua": 145.4,
+          "vide_torr": "5.1e-007",
+          "courant_aperture_ua": 0.0
+        },
+        {
+          "zone": "B",
+          "r_icol_kv": 872.0,
+          "courant_colonne_ua": 145.6,
+          "vide_torr": "5.7e-007",
+          "courant_aperture_ua": 0.0
+        }
+      ],
+      "accelerateurs_global": {
+        "tension_kv": 850.0,
+        "charge_ma": 5.27,
+        "faisceau_ma_a": 2.6,
+        "faisceau_ma_b": 2.6
+      }
+    }
+  ]
+}
