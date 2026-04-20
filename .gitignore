@@ -1,16 +1,8 @@
-# Byte-compiled / optimized / DLL files
+# ── Python ─────────────────────────────────────────────────────────────
 __pycache__/
 *.py[cod]
 *$py.class
-
-# Azure Functions
-local.settings.json
-.venv/
-.python_packages/
-python-packages/
-bin/
-obj/
-.vscode/
+*.so
 
 # Distribution / packaging
 .Python
@@ -30,61 +22,46 @@ wheels/
 .installed.cfg
 *.egg
 
-# PyInstaller
-*.manifest
-*.spec
-
-# Unit test / coverage reports
-htmlcov/
-.tox/
-.coverage
-.coverage.*
-.cache
-nosetests.xml
-coverage.xml
-*.cover
-.hypothesis/
-.pytest_cache/
-
-# Jupyter Notebook
-.ipynb_checkpoints
-
-# pyenv
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
 .python-version
 
-# Environments
+# ── Secrets ────────────────────────────────────────────────────────────
 .env
-.venv
-env/
-venv/
-ENV/
-env.bak/
-venv.bak/
+.env.local
 
-# IDEs
+# ── IDE / OS ───────────────────────────────────────────────────────────
+.vscode/
 .idea/
 *.swp
 *.swo
 *~
 .DS_Store
+Thumbs.db
 
-# Azure
-.azure/
+# ── Test / coverage ────────────────────────────────────────────────────
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+.hypothesis/
+coverage.xml
+*.cover
+nosetests.xml
 
-# Models and data
-*.cbm
-*.pkl
-*.h5
-*.model
-*.csv
-*.xlsx
-*.xls
+# ── Jupyter ────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
 
-# Logs
+# ── Generated artifacts (user data — do not commit) ────────────────────
+output/
+
+# ── Logs ───────────────────────────────────────────────────────────────
 *.log
 
-# Azurite
-__azurite*
-__blobstorage__/
-__queuestorage__/
-__tablestorage__/
+# ── Streamlit cache ────────────────────────────────────────────────────
+.streamlit/
